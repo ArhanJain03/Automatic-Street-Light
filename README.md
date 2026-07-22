@@ -19,5 +19,5 @@ This system automatically turns ON an LED when ambient light drops below a thres
 ## 🚀 How to Run
 1. Open [Tinkercad Circuits](https://www.tinkercad.com).
 2. Build the circuit as shown in the diagram above.
-3. Paste the contents of `main.ino` into the Text Code editor.
+3. Paste the contents of `automatic streetlight.ino` into the Text Code editor.
 4. Click **Start Simulation** and move the photoresistor slider to test!
